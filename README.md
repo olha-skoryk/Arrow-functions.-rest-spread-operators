@@ -1,1 +1,1 @@
-# Arrow-functions.-rest-spread-operators
+# ArrowFunctions-RestSpreadOperators
